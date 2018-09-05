@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- TODO[1]: Add text for first number-->
+    <!-- TODO[2]: Set layout_width and layout_height attributes-->
+    <!-- TODO[3]: Set appropriate text-->
+    <!-- TODO[4]: Set appropriate text color-->
+    <!-- TODO[5]: Set appropriate text size-->
+
+
+    <!--  Mark 1  -->
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <!-- TODO[6]: Add button for increment-->
+        <!-- TODO[7]: Set layout_width and layout_height attributes-->
+        <!-- TODO[8]: Set appropriate text-->
+        <!-- TODO[9]: Set on click to incNum1-->
+        <!-- TODO[10]: Add proper padding-->
+
+        <!-- TODO[11]: Add button for the number-->
+        <!-- TODO[12]: Set layout_width and layout_height attributes-->
+        <!-- TODO[13]: Set appropriate text-->
+        <!-- TODO[14]: Set appropriate text size-->
+        <!-- TODO[15]: Set id attribute to deal with text from Java-->
+        <!-- TODO[16]: Add proper padding-->
+
+        <!-- TODO[17]: Add button for decrement-->
+        <!-- TODO[18]: Set layout_width and layout_height attributes-->
+        <!-- TODO[19]: Set appropriate text-->
+        <!-- TODO[20]: Set on click to decNum1-->
+        <!-- TODO[21]: Add proper padding-->
+
+    </LinearLayout>
+
+
+    <!--  Mark 2 -->
+
+
+    <!-- TODO[22]: Add text for second number-->
+    <!-- TODO[23]: Set layout_width and layout_height attributes-->
+    <!-- TODO[24]: Set appropriate text-->
+    <!-- TODO[25]: Set appropriate text color-->
+    <!-- TODO[26]: Set appropriate text size-->
+
+
+    <!-- TODO[27]: Copy and paste from Mark 1  to Mark 2 and change on click in the to buttons to incNum2 and decNum2-->
+
+
+    <!-- TODO[28]: Add text for choosing the operator-->
+    <!-- TODO[29]: Set layout_width and layout_height attributes-->
+    <!-- TODO[30]: Set appropriate text-->
+    <!-- TODO[31]: Set appropriate text size-->
+    <!-- TODO[32]: Set appropriate text color-->
+
+
+    <!-- TODO[33]: Add linear layout-->
+    <!-- TODO[34]: Set layout_width and layout_height attributes-->
+    <!-- TODO[35]: Set orientation-->
+
+    <!-- TODO[36]: Add button for addition in linear layout-->
+    <!-- TODO[37]: Set layout_width and layout_height attributes-->
+    <!-- TODO[38]: Set appropriate text-->
+    <!-- TODO[39]: Set on click to add-->
+    <!-- TODO[40]: Add proper padding-->
+
+    <!-- TODO[41]: Add button for subtraction in linear layout-->
+    <!-- TODO[42]: Set layout_width and layout_height attributes-->
+    <!-- TODO[43]: Set appropriate text-->
+    <!-- TODO[44]: Set on click to subtract-->
+    <!-- TODO[45]: Add proper padding-->
+
+    <!-- TODO[46]: Add button for multiplication in linear layout-->
+    <!-- TODO[47]: Set layout_width and layout_height attributes-->
+    <!-- TODO[48]: Set appropriate text-->
+    <!-- TODO[49]: Set on click to multi-->
+    <!-- TODO[50]: Add proper padding-->
+
+    <!-- TODO[51]: Add button for division in linear layout-->
+    <!-- TODO[52]: Set layout_width and layout_height attributes-->
+    <!-- TODO[53]: Set appropriate text-->
+    <!-- TODO[54]: Set on click to divid-->
+    <!-- TODO[55]: Add proper padding-->
+
+
+    <!-- TODO[56]: Add text for the result-->
+    <!-- TODO[57]: Set layout_width and layout_height attributes-->
+    <!-- TODO[58]: Set id attribute to deal with text from Java-->
+    <!-- TODO[59]: Set appropriate text size-->
+    <!-- TODO[60]: Set appropriate text color-->
+
+</LinearLayout>
