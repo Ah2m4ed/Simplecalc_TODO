@@ -1,104 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp"
-    android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    >
 
     <!-- TODO[1]: Add text for first number-->
     <!-- TODO[2]: Set layout_width and layout_height attributes-->
-    <!-- TODO[3]: Set appropriate text-->
-    <!-- TODO[4]: Set appropriate text color-->
-    <!-- TODO[5]: Set appropriate text size-->
+    <!-- TODO[3]: Set id attribute-->
+    <!-- TODO[4]: Set appropriate padding-->
+    <!-- TODO[5]: Set appropriate text attribute-->
+    <!-- TODO[6]: Set layout_constraint... attributes per taste-->
 
+    <!-- TODO[7]: Add button for increment-->
+    <!-- TODO[8]: Set layout_width and layout_height attributes-->
+    <!-- TODO[9]: Set id attribute-->
+    <!-- TODO[10]: Set on click to incNum1-->
+    <!-- TODO[11]: Set appropriate padding-->
+    <!-- TODO[12]: Set appropriate text attribute-->
+    <!-- TODO[13]: Set layout_constraint... attributes per taste-->
 
-    <!--  Mark 1  -->
+    <!-- TODO[14]: Add text for the number-->
+    <!-- TODO[15]: Set layout_width and layout_height attributes-->
+    <!-- TODO[16]: Set id attribute to first_num-->
+    <!-- TODO[17]: Set appropriate padding-->
+    <!-- TODO[18]: Set appropriate text attribute-->
+    <!-- TODO[19]: Set layout_constraint... attributes per taste-->
 
+    <!-- TODO[20]: Add button for decrement-->
+    <!-- TODO[21]: Set layout_width and layout_height attributes-->
+    <!-- TODO[22]: Set id attribute-->
+    <!-- TODO[23]: Set on click to decNum1-->
+    <!-- TODO[24]: Set appropriate padding-->
+    <!-- TODO[25]: Set appropriate text attribute-->
+    <!-- TODO[26]: Set layout_constraint... attributes per taste-->
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:padding="16dp">
+    <!-- TODO[27]: Add text for second number-->
+    <!-- TODO[28]: Set layout_width and layout_height attributes-->
+    <!-- TODO[29]: Set id attribute-->
+    <!-- TODO[30]: Set appropriate padding-->
+    <!-- TODO[31]: Set appropriate text attribute-->
+    <!-- TODO[32]: Set layout_constraint... attributes per taste-->
 
-        <!-- TODO[6]: Add button for increment-->
-        <!-- TODO[7]: Set layout_width and layout_height attributes-->
-        <!-- TODO[8]: Set appropriate text-->
-        <!-- TODO[9]: Set on click to incNum1-->
-        <!-- TODO[10]: Add proper padding-->
-
-        <!-- TODO[11]: Add button for the number-->
-        <!-- TODO[12]: Set layout_width and layout_height attributes-->
-        <!-- TODO[13]: Set appropriate text-->
-        <!-- TODO[14]: Set appropriate text size-->
-        <!-- TODO[15]: Set id attribute to deal with text from Java-->
-        <!-- TODO[16]: Add proper padding-->
-
-        <!-- TODO[17]: Add button for decrement-->
-        <!-- TODO[18]: Set layout_width and layout_height attributes-->
-        <!-- TODO[19]: Set appropriate text-->
-        <!-- TODO[20]: Set on click to decNum1-->
-        <!-- TODO[21]: Add proper padding-->
-
-    </LinearLayout>
-
-
-    <!--  Mark 2 -->
-
-
-    <!-- TODO[22]: Add text for second number-->
-    <!-- TODO[23]: Set layout_width and layout_height attributes-->
-    <!-- TODO[24]: Set appropriate text-->
-    <!-- TODO[25]: Set appropriate text color-->
-    <!-- TODO[26]: Set appropriate text size-->
-
-
-    <!-- TODO[27]: Copy and paste from Mark 1  to Mark 2 and change on click in the to buttons to incNum2 and decNum2-->
-
-
-    <!-- TODO[28]: Add text for choosing the operator-->
-    <!-- TODO[29]: Set layout_width and layout_height attributes-->
-    <!-- TODO[30]: Set appropriate text-->
-    <!-- TODO[31]: Set appropriate text size-->
-    <!-- TODO[32]: Set appropriate text color-->
-
-
-    <!-- TODO[33]: Add linear layout-->
+    <!-- TODO[33]: Add button for increment-->
     <!-- TODO[34]: Set layout_width and layout_height attributes-->
-    <!-- TODO[35]: Set orientation-->
+    <!-- TODO[35]: Set id attribute-->
+    <!-- TODO[36]: Set on click to incNum2-->
+    <!-- TODO[37]: Set appropriate padding-->
+    <!-- TODO[38]: Set appropriate text attribute-->
+    <!-- TODO[39]: Set layout_constraint... attributes per taste-->
 
-    <!-- TODO[36]: Add button for addition in linear layout-->
-    <!-- TODO[37]: Set layout_width and layout_height attributes-->
-    <!-- TODO[38]: Set appropriate text-->
-    <!-- TODO[39]: Set on click to add-->
-    <!-- TODO[40]: Add proper padding-->
+    <!-- TODO[40]: Add text for the number-->
+    <!-- TODO[41]: Set layout_width and layout_height attributes-->
+    <!-- TODO[42]: Set id attribute to sec_num-->
+    <!-- TODO[43]: Set appropriate padding-->
+    <!-- TODO[44]: Set appropriate text attribute-->
+    <!-- TODO[45]: Set layout_constraint... attributes per taste-->
 
-    <!-- TODO[41]: Add button for subtraction in linear layout-->
-    <!-- TODO[42]: Set layout_width and layout_height attributes-->
-    <!-- TODO[43]: Set appropriate text-->
-    <!-- TODO[44]: Set on click to subtract-->
-    <!-- TODO[45]: Add proper padding-->
-
-    <!-- TODO[46]: Add button for multiplication in linear layout-->
+    <!-- TODO[46]: Add button for decrement-->
     <!-- TODO[47]: Set layout_width and layout_height attributes-->
-    <!-- TODO[48]: Set appropriate text-->
-    <!-- TODO[49]: Set on click to multi-->
-    <!-- TODO[50]: Add proper padding-->
+    <!-- TODO[48]: Set id attribute-->
+    <!-- TODO[49]: Set on click to decNum2-->
+    <!-- TODO[50]: Set appropriate padding-->
+    <!-- TODO[51]: Set appropriate text attribute-->
+    <!-- TODO[52]: Set layout_constraint... attributes per taste-->
 
-    <!-- TODO[51]: Add button for division in linear layout-->
-    <!-- TODO[52]: Set layout_width and layout_height attributes-->
-    <!-- TODO[53]: Set appropriate text-->
-    <!-- TODO[54]: Set on click to divid-->
-    <!-- TODO[55]: Add proper padding-->
+    <!-- TODO[53]: Add text for Choosing the operation-->
+    <!-- TODO[54]: Set layout_width and layout_height attributes-->
+    <!-- TODO[55]: Set id attribute-->
+    <!-- TODO[56]: Set appropriate padding-->
+    <!-- TODO[57]: Set appropriate text attribute-->
+    <!-- TODO[58]: Set layout_constraint... attributes per taste-->
+
+    <!-- TODO[59]: Add button for addition-->
+    <!-- TODO[60]: Set layout_width and layout_height attributes-->
+    <!-- TODO[61]: Set id attribute-->
+    <!-- TODO[62]: Set on click to add-->
+    <!-- TODO[63]: Set appropriate padding-->
+    <!-- TODO[64]: Set appropriate text attribute-->
+    <!-- TODO[65]: Set layout_constraint... attributes per taste-->
+
+    <!-- TODO[66]: Add button for subtraction-->
+    <!-- TODO[67]: Set layout_width and layout_height attributes-->
+    <!-- TODO[68]: Set id attribute-->
+    <!-- TODO[69]: Set on click to subtract-->
+    <!-- TODO[70]: Set appropriate padding-->
+    <!-- TODO[71]: Set appropriate text attribute-->
+    <!-- TODO[72]: Set layout_constraint... attributes per taste-->
+
+    <!-- TODO[73]: Add button for multiplication-->
+    <!-- TODO[74]: Set layout_width and layout_height attributes-->
+    <!-- TODO[75]: Set id attribute-->
+    <!-- TODO[76]: Set on click to multi-->
+    <!-- TODO[77]: Set appropriate padding-->
+    <!-- TODO[78]: Set appropriate text attribute-->
+    <!-- TODO[79]: Set layout_constraint... attributes per taste-->
+
+    <!-- TODO[80]: Add button for division-->
+    <!-- TODO[81]: Set layout_width and layout_height attributes-->
+    <!-- TODO[82]: Set id attribute-->
+    <!-- TODO[83]: Set on click to divid-->
+    <!-- TODO[84]: Set appropriate padding-->
+    <!-- TODO[85]: Set appropriate text attribute-->
+    <!-- TODO[86]: Set layout_constraint... attributes per taste-->
+
+    <!-- TODO[87]: Add text for the result-->
+    <!-- TODO[88]: Set layout_width and layout_height attributes-->
+    <!-- TODO[89]: Set id attribute to result_id-->
+    <!-- TODO[90]: Set appropriate padding-->
+    <!-- TODO[91]: Set appropriate text attribute-->
+    <!-- TODO[92]: Set layout_constraint... attributes per taste-->
 
 
-    <!-- TODO[56]: Add text for the result-->
-    <!-- TODO[57]: Set layout_width and layout_height attributes-->
-    <!-- TODO[58]: Set id attribute to deal with text from Java-->
-    <!-- TODO[59]: Set appropriate text size-->
-    <!-- TODO[60]: Set appropriate text color-->
 
-</LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
